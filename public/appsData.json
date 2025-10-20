@@ -1,0 +1,925 @@
+[
+  {
+    "image": "/images/demo-app(1).webp",
+    "companyName": "BlueOak",
+    "id": 101,
+    "description": "Smart task manager with reminders and calendar sync.",
+    "size": 28,
+    "reviews": 1245,
+    "ratingAvg": 4.6,
+    "downloads": 250000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 50
+      },
+      {
+        "name": "2 star",
+        "count": 30
+      },
+      {
+        "name": "3 star",
+        "count": 80
+      },
+      {
+        "name": "4 star",
+        "count": 300
+      },
+      {
+        "name": "5 star",
+        "count": 785
+      }
+    ]
+  },
+  {
+    "image": "assets/demo-app(2).webp ",
+    "title": "FitBuddy",
+    "companyName": "Wellbyte",
+    "id": 102,
+    "description": "Guided workouts and meal plans for all levels.",
+    "size": 45,
+    "reviews": 842,
+    "ratingAvg": 4.3,
+    "downloads": 180000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 30
+      },
+      {
+        "name": "2 star",
+        "count": 20
+      },
+      {
+        "name": "3 star",
+        "count": 70
+      },
+      {
+        "name": "4 star",
+        "count": 260
+      },
+      {
+        "name": "5 star",
+        "count": 462
+      }
+    ]
+  },
+  {
+    "image": "assets/demo-app(3).webp ",
+    "title": "PhotoZen",
+    "companyName": "Lumen",
+    "id": 103,
+    "description": "Powerful photo editor with filters & layers.",
+    "size": 60,
+    "reviews": 2200,
+    "ratingAvg": 4.7,
+    "downloads": 520000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 40
+      },
+      {
+        "name": "2 star",
+        "count": 25
+      },
+      {
+        "name": "3 star",
+        "count": 75
+      },
+      {
+        "name": "4 star",
+        "count": 400
+      },
+      {
+        "name": "5 star",
+        "count": 1660
+      }
+    ]
+  },
+  {
+    "image": "/images/learnly.png",
+    "title": "Learnly",
+    "companyName": "StudyHub",
+    "id": 104,
+    "description": "Micro-lessons for daily skill growth.",
+    "size": 22,
+    "reviews": 640,
+    "ratingAvg": 4.1,
+    "downloads": 120000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 20
+      },
+      {
+        "name": "2 star",
+        "count": 35
+      },
+      {
+        "name": "3 star",
+        "count": 120
+      },
+      {
+        "name": "4 star",
+        "count": 240
+      },
+      {
+        "name": "5 star",
+        "count": 225
+      }
+    ]
+  },
+  {
+    "image": "/images/trackly.png",
+    "title": "Trackly",
+    "companyName": "NavPoint",
+    "id": 105,
+    "description": "GPS tracker & timeline of trips for runners.",
+    "size": 34,
+    "reviews": 410,
+    "ratingAvg": 4.2,
+    "downloads": 92000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 15
+      },
+      {
+        "name": "2 star",
+        "count": 25
+      },
+      {
+        "name": "3 star",
+        "count": 80
+      },
+      {
+        "name": "4 star",
+        "count": 160
+      },
+      {
+        "name": "5 star",
+        "count": 130
+      }
+    ]
+  },
+  {
+    "image": "/images/coinmate.png",
+    "title": "CoinMate",
+    "companyName": "Finova",
+    "id": 106,
+    "description": "Crypto portfolio manager and alerts.",
+    "size": 18,
+    "reviews": 1500,
+    "ratingAvg": 4.4,
+    "downloads": 320000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 60
+      },
+      {
+        "name": "2 star",
+        "count": 40
+      },
+      {
+        "name": "3 star",
+        "count": 120
+      },
+      {
+        "name": "4 star",
+        "count": 420
+      },
+      {
+        "name": "5 star",
+        "count": 860
+      }
+    ]
+  },
+  {
+    "image": "/images/recipenow.png",
+    "title": "RecipeNow",
+    "companyName": "HomeCook",
+    "id": 107,
+    "description": "Step-by-step recipes with shopping lists.",
+    "size": 26,
+    "reviews": 980,
+    "ratingAvg": 4.5,
+    "downloads": 210000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 22
+      },
+      {
+        "name": "2 star",
+        "count": 28
+      },
+      {
+        "name": "3 star",
+        "count": 90
+      },
+      {
+        "name": "4 star",
+        "count": 300
+      },
+      {
+        "name": "5 star",
+        "count": 540
+      }
+    ]
+  },
+  {
+    "image": "/images/safeguard.png",
+    "title": "SafeGuard",
+    "companyName": "ShieldTech",
+    "id": 108,
+    "description": "Secure password manager with cloud sync.",
+    "size": 12,
+    "reviews": 470,
+    "ratingAvg": 4.0,
+    "downloads": 95000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 10
+      },
+      {
+        "name": "2 star",
+        "count": 15
+      },
+      {
+        "name": "3 star",
+        "count": 80
+      },
+      {
+        "name": "4 star",
+        "count": 140
+      },
+      {
+        "name": "5 star",
+        "count": 225
+      }
+    ]
+  },
+  {
+    "image": "/images/moodmix.png",
+    "title": "MoodMix",
+    "companyName": "VibeLab",
+    "id": 109,
+    "description": "Music playlists by mood and activity.",
+    "size": 70,
+    "reviews": 3100,
+    "ratingAvg": 4.8,
+    "downloads": 760000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 45
+      },
+      {
+        "name": "2 star",
+        "count": 30
+      },
+      {
+        "name": "3 star",
+        "count": 90
+      },
+      {
+        "name": "4 star",
+        "count": 500
+      },
+      {
+        "name": "5 star",
+        "count": 2435
+      }
+    ]
+  },
+  {
+    "image": "/images/langlearn.png",
+    "title": "LangLearn",
+    "companyName": "Polyglot",
+    "id": 110,
+    "description": "Bite-sized language lessons with speech practice.",
+    "size": 55,
+    "reviews": 860,
+    "ratingAvg": 4.2,
+    "downloads": 140000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 18
+      },
+      {
+        "name": "2 star",
+        "count": 40
+      },
+      {
+        "name": "3 star",
+        "count": 150
+      },
+      {
+        "name": "4 star",
+        "count": 240
+      },
+      {
+        "name": "5 star",
+        "count": 412
+      }
+    ]
+  },
+  {
+    "image": "/images/newsflash.png",
+    "title": "NewsFlash",
+    "companyName": "PulseMedia",
+    "id": 111,
+    "description": "Personalized news feed with offline reading.",
+    "size": 14,
+    "reviews": 520,
+    "ratingAvg": 3.9,
+    "downloads": 110000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 40
+      },
+      {
+        "name": "2 star",
+        "count": 30
+      },
+      {
+        "name": "3 star",
+        "count": 120
+      },
+      {
+        "name": "4 star",
+        "count": 160
+      },
+      {
+        "name": "5 star",
+        "count": 170
+      }
+    ]
+  },
+  {
+    "image": "/images/kidzone.png",
+    "title": "KidZone",
+    "companyName": "BrightKids",
+    "id": 112,
+    "description": "Educational games for preschoolers.",
+    "size": 90,
+    "reviews": 400,
+    "ratingAvg": 4.1,
+    "downloads": 78000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 10
+      },
+      {
+        "name": "2 star",
+        "count": 15
+      },
+      {
+        "name": "3 star",
+        "count": 60
+      },
+      {
+        "name": "4 star",
+        "count": 140
+      },
+      {
+        "name": "5 star",
+        "count": 175
+      }
+    ]
+  },
+  {
+    "image": "/images/meetup.png",
+    "title": "MeetUpNow",
+    "companyName": "Connectly",
+    "id": 113,
+    "description": "Events & meetups near you with RSVP.",
+    "size": 20,
+    "reviews": 330,
+    "ratingAvg": 4.0,
+    "downloads": 65000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 8
+      },
+      {
+        "name": "2 star",
+        "count": 20
+      },
+      {
+        "name": "3 star",
+        "count": 80
+      },
+      {
+        "name": "4 star",
+        "count": 130
+      },
+      {
+        "name": "5 star",
+        "count": 92
+      }
+    ]
+  },
+  {
+    "image": "/images/readr.png",
+    "title": "Readr",
+    "companyName": "Inkly",
+    "id": 114,
+    "description": "Clean reading app with annotations & syncing.",
+    "size": 16,
+    "reviews": 720,
+    "ratingAvg": 4.3,
+    "downloads": 195000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 14
+      },
+      {
+        "name": "2 star",
+        "count": 26
+      },
+      {
+        "name": "3 star",
+        "count": 120
+      },
+      {
+        "name": "4 star",
+        "count": 220
+      },
+      {
+        "name": "5 star",
+        "count": 340
+      }
+    ]
+  },
+  {
+    "image": "/images/clipcut.png",
+    "title": "ClipCut",
+    "companyName": "StudioSoft",
+    "id": 115,
+    "description": "Quick video editor for social clips.",
+    "size": 88,
+    "reviews": 2600,
+    "ratingAvg": 4.6,
+    "downloads": 410000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 35
+      },
+      {
+        "name": "2 star",
+        "count": 40
+      },
+      {
+        "name": "3 star",
+        "count": 105
+      },
+      {
+        "name": "4 star",
+        "count": 520
+      },
+      {
+        "name": "5 star",
+        "count": 1900
+      }
+    ]
+  },
+  {
+    "image": "/images/weatherly.png",
+    "title": "Weatherly",
+    "companyName": "SkyCast",
+    "id": 116,
+    "description": "Tiny weather app with accurate hourly forecasts.",
+    "size": 10,
+    "reviews": 300,
+    "ratingAvg": 4.0,
+    "downloads": 98000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 12
+      },
+      {
+        "name": "2 star",
+        "count": 18
+      },
+      {
+        "name": "3 star",
+        "count": 60
+      },
+      {
+        "name": "4 star",
+        "count": 140
+      },
+      {
+        "name": "5 star",
+        "count": 70
+      }
+    ]
+  },
+  {
+    "image": "/images/travelmate.png",
+    "title": "TravelMate",
+    "companyName": "GlobeTrotters",
+    "id": 117,
+    "description": "Plan trips and explore destinations effortlessly.",
+    "size": 55,
+    "reviews": 1240,
+    "ratingAvg": 4.6,
+    "downloads": 220000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 25
+      },
+      {
+        "name": "2 star",
+        "count": 20
+      },
+      {
+        "name": "3 star",
+        "count": 120
+      },
+      {
+        "name": "4 star",
+        "count": 400
+      },
+      {
+        "name": "5 star",
+        "count": 675
+      }
+    ]
+  },
+  {
+    "image": "/images/musicvibes.png",
+    "title": "MusicVibes",
+    "companyName": "SoundWave",
+    "id": 118,
+    "description": "Stream and discover music tailored to your taste.",
+    "size": 60,
+    "reviews": 2100,
+    "ratingAvg": 4.8,
+    "downloads": 400000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 30
+      },
+      {
+        "name": "2 star",
+        "count": 20
+      },
+      {
+        "name": "3 star",
+        "count": 50
+      },
+      {
+        "name": "4 star",
+        "count": 400
+      },
+      {
+        "name": "5 star",
+        "count": 1600
+      }
+    ]
+  },
+  {
+    "image": "/images/medicheck.png",
+    "title": "MediCheck",
+    "companyName": "HealthPlus",
+    "id": 119,
+    "description": "Monitor your health and get timely reminders.",
+    "size": 28,
+    "reviews": 950,
+    "ratingAvg": 4.5,
+    "downloads": 130000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 15
+      },
+      {
+        "name": "2 star",
+        "count": 20
+      },
+      {
+        "name": "3 star",
+        "count": 90
+      },
+      {
+        "name": "4 star",
+        "count": 320
+      },
+      {
+        "name": "5 star",
+        "count": 505
+      }
+    ]
+  },
+  {
+    "image": "/images/bookworm.png",
+    "title": "BookWorm",
+    "companyName": "ReadMore",
+    "id": 120,
+    "description": "Discover, track, and read your favorite books.",
+    "size": 33,
+    "reviews": 1760,
+    "ratingAvg": 4.7,
+    "downloads": 280000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 20
+      },
+      {
+        "name": "2 star",
+        "count": 30
+      },
+      {
+        "name": "3 star",
+        "count": 100
+      },
+      {
+        "name": "4 star",
+        "count": 480
+      },
+      {
+        "name": "5 star",
+        "count": 1130
+      }
+    ]
+  },
+  {
+    "image": "/images/meditation.png",
+    "title": "ZenTime",
+    "companyName": "MindEase",
+    "id": 121,
+    "description": "Relax and meditate with guided sessions.",
+    "size": 25,
+    "reviews": 1120,
+    "ratingAvg": 4.6,
+    "downloads": 190000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 10
+      },
+      {
+        "name": "2 star",
+        "count": 25
+      },
+      {
+        "name": "3 star",
+        "count": 95
+      },
+      {
+        "name": "4 star",
+        "count": 420
+      },
+      {
+        "name": "5 star",
+        "count": 570
+      }
+    ]
+  },
+  {
+    "image": "/images/languagehub.png",
+    "title": "LanguageHub",
+    "companyName": "LinguaTech",
+    "id": 122,
+    "description": "Learn new languages quickly with interactive lessons.",
+    "size": 48,
+    "reviews": 1340,
+    "ratingAvg": 4.7,
+    "downloads": 260000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 15
+      },
+      {
+        "name": "2 star",
+        "count": 20
+      },
+      {
+        "name": "3 star",
+        "count": 80
+      },
+      {
+        "name": "4 star",
+        "count": 400
+      },
+      {
+        "name": "5 star",
+        "count": 825
+      }
+    ]
+  },
+  {
+    "image": "/images/shoppinggenie.png",
+    "title": "ShoppingGenie",
+    "companyName": "ShopEase",
+    "id": 123,
+    "description": "Find deals, compare prices, and shop smart.",
+    "size": 38,
+    "reviews": 1580,
+    "ratingAvg": 4.6,
+    "downloads": 230000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 20
+      },
+      {
+        "name": "2 star",
+        "count": 25
+      },
+      {
+        "name": "3 star",
+        "count": 100
+      },
+      {
+        "name": "4 star",
+        "count": 450
+      },
+      {
+        "name": "5 star",
+        "count": 985
+      }
+    ]
+  },
+  {
+    "image": "/images/photoedit.png",
+    "title": "PhotoEdit Pro",
+    "companyName": "PixLab",
+    "id": 124,
+    "description": "Edit photos with professional tools on your phone.",
+    "size": 45,
+    "reviews": 1220,
+    "ratingAvg": 4.5,
+    "downloads": 200000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 15
+      },
+      {
+        "name": "2 star",
+        "count": 20
+      },
+      {
+        "name": "3 star",
+        "count": 95
+      },
+      {
+        "name": "4 star",
+        "count": 400
+      },
+      {
+        "name": "5 star",
+        "count": 690
+      }
+    ]
+  },
+  {
+    "image": "/images/fitnesscoach.png",
+    "title": "FitnessCoach",
+    "companyName": "FitLife",
+    "id": 125,
+    "description": "Personalized workout plans and fitness tracking.",
+    "size": 50,
+    "reviews": 1650,
+    "ratingAvg": 4.7,
+    "downloads": 310000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 20
+      },
+      {
+        "name": "2 star",
+        "count": 25
+      },
+      {
+        "name": "3 star",
+        "count": 90
+      },
+      {
+        "name": "4 star",
+        "count": 480
+      },
+      {
+        "name": "5 star",
+        "count": 1035
+      }
+    ]
+  },
+  {
+    "image": "/images/stocktracker.png",
+    "title": "StockTracker",
+    "companyName": "FinSight",
+    "id": 126,
+    "description": "Monitor stocks, track trends, and invest smartly.",
+    "size": 34,
+    "reviews": 1120,
+    "ratingAvg": 4.6,
+    "downloads": 180000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 18
+      },
+      {
+        "name": "2 star",
+        "count": 22
+      },
+      {
+        "name": "3 star",
+        "count": 90
+      },
+      {
+        "name": "4 star",
+        "count": 400
+      },
+      {
+        "name": "5 star",
+        "count": 590
+      }
+    ]
+  },
+  {
+    "image": "/images/codinghub.png",
+    "title": "CodingHub",
+    "companyName": "DevSpace",
+    "id": 127,
+    "description": "Learn coding with interactive tutorials and challenges.",
+    "size": 48,
+    "reviews": 1460,
+    "ratingAvg": 4.7,
+    "downloads": 240000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 15
+      },
+      {
+        "name": "2 star",
+        "count": 20
+      },
+      {
+        "name": "3 star",
+        "count": 80
+      },
+      {
+        "name": "4 star",
+        "count": 420
+      },
+      {
+        "name": "5 star",
+        "count": 925
+      }
+    ]
+  },
+  {
+    "image": "/images/petcare.png",
+    "title": "PetCare",
+    "companyName": "AnimalLovers",
+    "id": 128,
+    "description": "Tips, reminders, and guides for your pets’ health.",
+    "size": 28,
+    "reviews": 880,
+    "ratingAvg": 4.5,
+    "downloads": 130000,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 10
+      },
+      {
+        "name": "2 star",
+        "count": 15
+      },
+      {
+        "name": "3 star",
+        "count": 80
+      },
+      {
+        "name": "4 star",
+        "count": 320
+      },
+      {
+        "name": "5 star",
+        "count": 455
+      }
+    ]
+  }
+]
