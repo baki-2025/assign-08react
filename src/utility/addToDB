@@ -1,6 +1,6 @@
 const getStoredApp = () => {
     
-    const storedAppSTR = localStorage.getItem("readList");
+    const storedAppSTR = localStorage.getItem("appsList");
 
     if (storedAppSTR) {
         const storedAppData = JSON.parse(storedAppSTR);

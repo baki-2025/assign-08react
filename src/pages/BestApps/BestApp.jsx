@@ -8,6 +8,7 @@ const BestApps = () => {
     const [appsData, setAppsData] = useState([]);
 
 
+
     useEffect(() => {
         fetch("/appsData.json")
             .then((res) => res.json())
@@ -16,6 +17,8 @@ const BestApps = () => {
     }, []);
 
     const top8Apps = appsData.slice(0, 8);
+
+   
 
     return (
         <div className="p-4 max-w-7xl mx-auto bg-gray-100">

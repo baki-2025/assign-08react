@@ -37,7 +37,7 @@ const NavBar = () => {
                                 <NavLink
                                     to={link.path}
                                     className={({ isActive }) =>
-                                        isActive ? "text-violet-500 font-bold" : "text-black"
+                                        isActive ? "text-yellow-900 font-bold" : "text-black"
                                     }
                                 >
                                     {link.name}
