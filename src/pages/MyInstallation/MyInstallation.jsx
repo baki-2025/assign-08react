@@ -55,7 +55,8 @@ const MyInstallation = () => {
       </div>
 
       {/* App List */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+      
+        <div className="w-[300px] flex flex-col gap-4 border-2 border-dashed border-gray-300 rounded-lg p-4">
         {sortedApps.length > 0 ? (
           sortedApps.map((app) => (
             <AppCard
@@ -75,6 +76,5 @@ const MyInstallation = () => {
 };
 
 export default MyInstallation;
-
 
 

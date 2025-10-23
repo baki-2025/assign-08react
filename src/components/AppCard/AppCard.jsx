@@ -3,12 +3,14 @@ import { useNavigate } from "react-router";
 import downloadsIcon from "../../assets/icon-downloads.png";
 import ratingsIcon from "../../assets/icon-ratings.png";
 
+
  
 
 
 const AppCard = ({ singleApp, isInstalled }) => {
   const { id, image, title, description,  ratingAvg } = singleApp;
   const navigate = useNavigate();
+ 
   
 
   // Short description
@@ -64,5 +66,4 @@ const AppCard = ({ singleApp, isInstalled }) => {
 };
 
 export default AppCard;
-
 

@@ -17,14 +17,20 @@ const AppDetails = () => {
         const found = data.find((item) => item.id === Number(id));
         setApp(found);
 
-        const installed = JSON.parse(localStorage.getItem("installedApps")) || [];
+        const installed =
+          JSON.parse(localStorage.getItem("installedApps")) || [];
         setIsInstalled(installed.some((a) => a.id === Number(id)));
       });
   }, [id]);
 
   if (!app)
-    return <p className=" w-[1600px] h-[733px] text-center mt-10 text-gray-500">Loading...</p>;
+    return (
+      <p className="w-[1600px] h-[733px] text-center mt-10 text-gray-500">
+        Loading...
+      </p>
+    );
 
+  // ✅ FIXED: Properly close handleInstall function
   const handleInstall = () => {
     if (isInstalled) return;
 
@@ -32,6 +38,7 @@ const AppDetails = () => {
     installed.push(app);
     localStorage.setItem("installedApps", JSON.stringify(installed));
     setIsInstalled(true);
+
     alert("App installed successfully!");
   };
 
@@ -62,7 +69,6 @@ const AppDetails = () => {
               <span className="text-gray-700 font-semibold">
                 {app.downloads}M
               </span>
-              
             </div>
 
             <div className="flex items-center gap-2">
@@ -70,13 +76,11 @@ const AppDetails = () => {
               <span className="text-gray-700 font-semibold">
                 {app.ratingAvg}
               </span>
-              
             </div>
 
             <div className="flex items-center gap-2">
               <img src={reviewsIcon} alt="" className="w-5 h-5" />
               <span className="text-gray-700 font-semibold">{app.reviews}K</span>
-              
             </div>
           </div>
 
@@ -101,7 +105,12 @@ const AppDetails = () => {
           <BarChart data={app.ratings} layout="vertical">
             <XAxis type="number" hide />
             <Tooltip />
-            <Bar dataKey="count" fill="#f97316" barSize={25} radius={[4, 4, 4, 4]} />
+            <Bar
+              dataKey="count"
+              fill="#f97316"
+              barSize={25}
+              radius={[4, 4, 4, 4]}
+            />
           </BarChart>
         </ResponsiveContainer>
       </div>
