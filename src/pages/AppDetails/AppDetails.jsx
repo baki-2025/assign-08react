@@ -43,7 +43,7 @@ const AppDetails = () => {
   };
 
   return (
-    <div className="max-w-5xl mx-auto bg-gray-200 shadow-lg rounded-xl p-6 mt-8">
+    <div className="w-full mx-auto  bg-gray-200 shadow-lg  p-6 ">
       {/* Top Section */}
       <div className="flex flex-col md:flex-row gap-8 items-center md:items-start">
         {/* Left: Image */}

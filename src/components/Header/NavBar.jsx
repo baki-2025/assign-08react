@@ -61,7 +61,7 @@ const NavBar = () => {
                             <NavLink
                                 to={link.path}
                                 className={({ isActive }) =>
-                                    isActive ? "btn btn-primary btn-sm" : "btn btn-ghost btn-sm"
+                                    isActive ? "btn btn-primary btn-sm" : "btn btn-secondary btn-sm"
                                 }
                             >
                                 {link.name}
